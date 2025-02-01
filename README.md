@@ -1,5 +1,5 @@
 🎓 **Computer Science Student** @ AGH University | **AI & Software Development Enthusiast**  
-💻 Passionate about building scalable systems, solving algorithmic challenges, and leveraging AI for real-world impact.  
+💻 Passionate about building scalable systems, solving algorithmic challenges, and leveraging AI for useful projects.  
 
 ## 🚀 Featured Projects  
 
