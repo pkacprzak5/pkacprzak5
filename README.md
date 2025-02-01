@@ -9,7 +9,7 @@ Built with **YOLOv10s**, **OpenCV**, and **Flask-SocketIO** for live vehicle det
 ### [📝 Task Management System (Go)](https://github.com/pkacprzak5/TaskManagementSystem)  
 A scalable backend service with **JWT authentication**, REST APIs, and microservice architecture.  
 
-### [🚴♂️ MaiosAFFCycling (HackYeah 2024)](https://github.com/pkacprzak5/HackYeah2024)  
+### [🚴 MaiosAFFCycling (HackYeah 2024)](https://github.com/pkacprzak5/HackYeah2024)  
 AI-powered cycling route optimizer using real-time safety data.  
 
 ## 🛠️ Tech Stack   
