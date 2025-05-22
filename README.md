@@ -1,4 +1,5 @@
-🎓 **Computer Science Student** @ AGH University | **AI & Software Development Enthusiast**  
+🎓 **Computer Science Student** @ AGH University | **Golang Intern** @ Motorola Solutions | **AI Enthusiast**
+
 💻 Passionate about building scalable systems, solving algorithmic challenges, and leveraging AI for useful projects.  
 
 ## 🚀 Featured Projects  
